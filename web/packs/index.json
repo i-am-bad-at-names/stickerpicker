@@ -1,6 +1,16 @@
 {
   "packs": [
-    "PikachuDetective.json"
+    "PikachuDetective.json",
+    "NorthKoreaKim.json",
+    "GameZelda.json",
+    "SuperGreenFrog.json",
+    "Vlad_Len.json",
+    "Rich_Uncle.json",
+    "MoarKittyMeme.json",
+    "PaperAirplane.json",
+    "PopTartCat.json",
+    "OppyTheRover.json",
+    "MrBlanket.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
